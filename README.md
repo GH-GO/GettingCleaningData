@@ -12,4 +12,5 @@ Files
 3.	Rename the codes with the activities in the data set with descriptive activity names 
 4.	Replace codes in the data set with corresponding activity labels
 5.	From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 •	FinalDf.txt with the exported final data
