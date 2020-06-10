@@ -1,7 +1,7 @@
 # GettingCleaningData
 Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-This repository contains the r code (“run_analysis.R”) the book code (“BookCode.pdf ”)and the final data (“FinalDf.txt”) for Getting and Cleaning Data course project. 
+This repository contains the r code (“run_analysis.R”) the book code (“BookCode.pdf”) and the final data (“FinalDf.txt”) for Getting and Cleaning Data course project. 
 
 Dataset Human Activity Recognition Using Smartphones
 
